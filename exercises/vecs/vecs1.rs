@@ -5,7 +5,7 @@
 //
 // Make me compile and pass the test!
 //
-// Execute `rustlings hint vecs1` or use the `hint` watch subcommand for a hint.
+// Execute `rustlingss hint vecs1` or use the `hint` watch subcommand for a hint.
 
 // I AM NOT DONE
 
